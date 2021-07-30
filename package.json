@@ -23,5 +23,8 @@
     "esbuild": "^0.12.17",
     "webpack": "^5.47.1",
     "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.6"
   }
 }
