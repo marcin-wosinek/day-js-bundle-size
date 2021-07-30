@@ -1,0 +1,20 @@
+{
+  "name": "day-js-bundle-size",
+  "version": "1.0.0",
+  "description": "Repo for checking bundle size with day-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcin-wosinek/day-js-bundle-size.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcin-wosinek/day-js-bundle-size/issues"
+  },
+  "homepage": "https://github.com/marcin-wosinek/day-js-bundle-size#readme"
+}
